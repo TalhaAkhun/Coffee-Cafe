@@ -2,12 +2,12 @@
 Welcome to the Coffee-Cafe project! This is a tutorial project inspired by Free Code Camp, designed to help you learn how to build a simple coffee shop website using HTML, CSS, and JavaScript.
 
 ## Table of Contents
-- Project Overview
-- Features
-- Getting Started
-- Usage
-- Contributing
-- License
+- #### [Project Overview](#project-overview)
+- #### [Features](#features)
+- #### [Getting Started](#getting-started)
+- #### [Usage](#usage)
+- #### [Contributing](#contributing)
+- #### [License](#license)
 ## Project Overview
 Coffee-Cafe is a beginner-friendly project that teaches you the fundamentals of web development. In this project, you'll create a coffee shop website where users can view the menu, place orders, and see order summaries.
 
